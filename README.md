@@ -1,2 +1,2 @@
-# MongoDB-Data_Management-Report
-Using MongoDB to analyse information from a big dataset using aggregation commands and conduct big data analytics. As part of IAB206 - Modern Data Management.
+# MongoDB Data Management Report
+Analysing information from a big dataset using aggregation commands and conduct big data analytics using MongoDB. Describes key issues for modern data management and identifies corresponding technologies to address the issues independent of any specific platform or framework, evaluating various capabilities of modern data management technologies, designing and developing solutions to manage data using modern data management technologies, and working collaboratively to efficiently manage and deliver on projects related to the development of modern data management solutions for a client.
